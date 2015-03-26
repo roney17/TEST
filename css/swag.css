@@ -167,7 +167,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/landinggraphic.jpg) no-repeat bottom center scroll;
+    background: url(img/landinggraphic.jpg) no-repeat bottom center scroll;
     background-color: #000;
     background-position:  40px;
     -webkit-background-size: cover;
