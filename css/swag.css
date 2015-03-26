@@ -299,11 +299,11 @@ a:focus {
     /*padding-top: 100px;*/
 }
 
-.download-section {
+.skills-section {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(../img/hobo.jpg) no-repeat center center scroll;
+    background: url(../img/Hobo.jpg) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -322,7 +322,7 @@ a:focus {
         padding-top: 250px;
     }
 
-    .download-section {
+    .skills-section {
         padding: 100px 0;
     }
 
