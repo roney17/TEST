@@ -420,3 +420,18 @@ body {
     padding: 130px;
     background: url(../img/face.jpg) no-repeat center center scroll;
 }
+.band{
+    padding: 15px 0;
+    height: 50px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 1px solid #1695A3;
+
+}
+a{
+    text-decoration: none;
+}
+
+
