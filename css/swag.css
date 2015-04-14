@@ -416,9 +416,12 @@ body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
 .Face{
-/*    margin-top: 12em;*/
-    padding: 130px;
-    background: url(../img/face.jpg) no-repeat center center scroll;
+    margin-left: auto;
+    display: block;
+}
+.Face1{
+    margin-right: auto;
+    display: block;
 }
 .band{
     padding: 15px 0;
