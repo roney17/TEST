@@ -415,19 +415,16 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
-/*.Face{
-<<<<<<< HEAD
+.Face{
     margin-top: 14em;
     height: 25%;
     background: url(../img/face.jpg) no-repeat center center scroll;
-=======
     margin-left: auto;
     display: block;
 }
 .Face1{
     margin-right: auto;
     display: block;
->>>>>>> e363521c52137a0eaa33ce3251fc881ab035eedd
 }
 .band{
     padding: 15px 0;
@@ -438,7 +435,7 @@ body {
     text-align: center;
     border: 1px solid #1695A3;
 
-}*/
+}
 a{
     text-decoration: none;
 }
